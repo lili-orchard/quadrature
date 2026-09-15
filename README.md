@@ -7,3 +7,4 @@ Default method: Simpson
 ## Methods implemented
 
 - trapezoid
+Maintained by Lili Orchard
